@@ -7,3 +7,5 @@ Mentors: Andrew Ng, Head Teaching Assistant - Kian Katanforoosh & Teaching Assis
 Contents: Introduction to deep learning, basics of neural networks, shallow neural networks and deep neural networks.
 
 Programming assignments: Logisitic Regression (Week 2), Neural network classifier with one hidden layer (Week 3), Building Deep Neural Network (Week 4), Application of Deep Neural Network (Week 4).
+
+Certification: https://www.coursera.org/account/accomplishments/certificate/ZWPTR7FPDGUP
